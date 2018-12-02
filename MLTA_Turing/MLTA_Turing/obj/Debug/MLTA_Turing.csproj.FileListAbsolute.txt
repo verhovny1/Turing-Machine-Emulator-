@@ -1,0 +1,62 @@
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга\MLTA_Turing\MLTA_Turing\bin\Debug\MLTA_Turing.exe.config
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга\MLTA_Turing\MLTA_Turing\bin\Debug\MLTA_Turing.exe
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга\MLTA_Turing\MLTA_Turing\bin\Debug\MLTA_Turing.pdb
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга\MLTA_Turing\MLTA_Turing\obj\Debug\MLTA_Turing.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга\MLTA_Turing\MLTA_Turing\obj\Debug\MLTA_Turing.Form1.resources
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга\MLTA_Turing\MLTA_Turing\obj\Debug\MLTA_Turing.Properties.Resources.resources
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга\MLTA_Turing\MLTA_Turing\obj\Debug\MLTA_Turing.csproj.GenerateResource.Cache
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга\MLTA_Turing\MLTA_Turing\obj\Debug\MLTA_Turing.exe
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга\MLTA_Turing\MLTA_Turing\obj\Debug\MLTA_Turing.pdb
+C:\Users\VerhovnyMenko\Desktop\MLTA . C# . машина Тьюрінга\MLTA_Turing\MLTA_Turing\bin\Debug\MLTA_Turing.exe.config
+C:\Users\VerhovnyMenko\Desktop\MLTA . C# . машина Тьюрінга\MLTA_Turing\MLTA_Turing\obj\Debug\MLTA_Turing.exe
+C:\Users\VerhovnyMenko\Desktop\MLTA . C# . машина Тьюрінга\MLTA_Turing\MLTA_Turing\obj\Debug\MLTA_Turing.pdb
+C:\Users\VerhovnyMenko\Desktop\MLTA . C# . машина Тьюрінга\MLTA_Turing\MLTA_Turing\bin\Debug\MLTA_Turing.exe
+C:\Users\VerhovnyMenko\Desktop\MLTA . C# . машина Тьюрінга\MLTA_Turing\MLTA_Turing\bin\Debug\MLTA_Turing.pdb
+C:\Users\VerhovnyMenko\Desktop\MLTA . C# . машина Тьюрінга\MLTA_Turing\MLTA_Turing\obj\Debug\MLTA_Turing.csprojResolveAssemblyReference.cache
+C:\Users\VerhovnyMenko\Desktop\MLTA . C# . машина Тьюрінга\MLTA_Turing\MLTA_Turing\obj\Debug\MLTA_Turing.Form1.resources
+C:\Users\VerhovnyMenko\Desktop\MLTA . C# . машина Тьюрінга\MLTA_Turing\MLTA_Turing\obj\Debug\MLTA_Turing.Properties.Resources.resources
+C:\Users\VerhovnyMenko\Desktop\MLTA . C# . машина Тьюрінга\MLTA_Turing\MLTA_Turing\obj\Debug\MLTA_Turing.csproj.GenerateResource.Cache
+C:\Users\VerhovnyMenko\Desktop\MLTA . C# . машина Тьюрінга\MLTA_Turing\MLTA_Turing\obj\Debug\MLTA_Turing.Form2.resources
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга v 2\MLTA_Turing\MLTA_Turing\bin\Debug\MLTA_Turing.exe.config
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга v 2\MLTA_Turing\MLTA_Turing\obj\Debug\MLTA_Turing.exe
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга v 2\MLTA_Turing\MLTA_Turing\obj\Debug\MLTA_Turing.pdb
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга v 2\MLTA_Turing\MLTA_Turing\obj\Debug\MLTA_Turing.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга v 2\MLTA_Turing\MLTA_Turing\obj\Debug\MLTA_Turing.Form1.resources
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга v 2\MLTA_Turing\MLTA_Turing\obj\Debug\MLTA_Turing.Form2.resources
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга v 2\MLTA_Turing\MLTA_Turing\obj\Debug\MLTA_Turing.Properties.Resources.resources
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга v 2\MLTA_Turing\MLTA_Turing\obj\Debug\MLTA_Turing.csproj.GenerateResource.Cache
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга v 2\MLTA_Turing\MLTA_Turing\bin\Debug\MLTA_Turing.exe
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга v 2\MLTA_Turing\MLTA_Turing\bin\Debug\MLTA_Turing.pdb
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга v 2 - копия\MLTA_Turing\MLTA_Turing\bin\Debug\MLTA_Turing.exe.config
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга v 2 - копия\MLTA_Turing\MLTA_Turing\obj\Debug\MLTA_Turing.exe
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга v 2 - копия\MLTA_Turing\MLTA_Turing\obj\Debug\MLTA_Turing.pdb
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга v 2 - копия\MLTA_Turing\MLTA_Turing\bin\Debug\MLTA_Turing.exe
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга v 2 - копия\MLTA_Turing\MLTA_Turing\bin\Debug\MLTA_Turing.pdb
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга v 2 - копия\MLTA_Turing\MLTA_Turing\obj\Debug\MLTA_Turing.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга v 2 - копия\MLTA_Turing\MLTA_Turing\obj\Debug\MLTA_Turing.Form1.resources
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга v 2 - копия\MLTA_Turing\MLTA_Turing\obj\Debug\MLTA_Turing.Form2.resources
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга v 2 - копия\MLTA_Turing\MLTA_Turing\obj\Debug\MLTA_Turing.Properties.Resources.resources
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга v 2 - копия\MLTA_Turing\MLTA_Turing\obj\Debug\MLTA_Turing.csproj.GenerateResource.Cache
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга v 2 - копия\MLTA_Turing\MLTA_Turing\obj\Debug\MLTA_Turing.Options.resources
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга v 3\MLTA_Turing\MLTA_Turing\bin\Debug\MLTA_Turing.exe.config
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга v 3\MLTA_Turing\MLTA_Turing\bin\Debug\MLTA_Turing.exe
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга v 3\MLTA_Turing\MLTA_Turing\bin\Debug\MLTA_Turing.pdb
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга v 3\MLTA_Turing\MLTA_Turing\obj\Debug\MLTA_Turing.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга v 3\MLTA_Turing\MLTA_Turing\obj\Debug\MLTA_Turing.Form1.resources
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга v 3\MLTA_Turing\MLTA_Turing\obj\Debug\MLTA_Turing.Form2.resources
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга v 3\MLTA_Turing\MLTA_Turing\obj\Debug\MLTA_Turing.Options.resources
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга v 3\MLTA_Turing\MLTA_Turing\obj\Debug\MLTA_Turing.Properties.Resources.resources
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга v 3\MLTA_Turing\MLTA_Turing\obj\Debug\MLTA_Turing.csproj.GenerateResource.Cache
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга v 3\MLTA_Turing\MLTA_Turing\obj\Debug\MLTA_Turing.exe
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга v 3\MLTA_Turing\MLTA_Turing\obj\Debug\MLTA_Turing.pdb
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга v 3.1\MLTA_Turing\MLTA_Turing\bin\Debug\MLTA_Turing.exe.config
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга v 3.1\MLTA_Turing\MLTA_Turing\bin\Debug\MLTA_Turing.exe
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга v 3.1\MLTA_Turing\MLTA_Turing\bin\Debug\MLTA_Turing.pdb
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга v 3.1\MLTA_Turing\MLTA_Turing\obj\Debug\MLTA_Turing.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга v 3.1\MLTA_Turing\MLTA_Turing\obj\Debug\MLTA_Turing.Form1.resources
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга v 3.1\MLTA_Turing\MLTA_Turing\obj\Debug\MLTA_Turing.Form2.resources
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга v 3.1\MLTA_Turing\MLTA_Turing\obj\Debug\MLTA_Turing.Options.resources
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга v 3.1\MLTA_Turing\MLTA_Turing\obj\Debug\MLTA_Turing.Properties.Resources.resources
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга v 3.1\MLTA_Turing\MLTA_Turing\obj\Debug\MLTA_Turing.csproj.GenerateResource.Cache
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга v 3.1\MLTA_Turing\MLTA_Turing\obj\Debug\MLTA_Turing.exe
+C:\Users\Максим\Desktop\MLTA . C# . машина Тьюрінга v 3.1\MLTA_Turing\MLTA_Turing\obj\Debug\MLTA_Turing.pdb
